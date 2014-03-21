@@ -1,0 +1,11 @@
+body {
+    background: #f0f0f0;
+}
+
+.profile {
+    background: #fff;
+    -moz-box-shadow: 0 0 1em #888;
+    -webkit-box-shadow: 0 0 1em #888;
+    box-shadow: 0 0 1em #888;
+    padding: 0.5em 1em;
+}
