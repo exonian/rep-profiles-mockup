@@ -9,3 +9,17 @@ body {
     box-shadow: 0 0 1em #888;
     padding: 0.5em 1em;
 }
+
+.highlights {
+    background: #f0f0ff;
+}
+
+h3 {
+    font-size: 1.2em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+[contenteditable]:hover:not(:focus) {
+    outline: 1px dotted #ccc;
+}

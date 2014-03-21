@@ -1,4 +1,12 @@
-- name: John Smith
+profile:
+  name: John Smith
   intro: |
-         I'm applying for the Production Operative opportunity because I am
-         keen to work outdoors and use my hands.
+         I'm applying for the Production Operative opportunity because I am keen to work outdoors and use my hands.
+
+highlights:
+  - title: "Resistant materials"
+    text: "My best grades were in woodwork"
+  - title: "Outdoors"
+    text: "I play lots of sports outdoors in any weather"
+  - title: "School colours"
+    text: "I got the award for the number of caps I got for the school in rugby, cricket and football"
