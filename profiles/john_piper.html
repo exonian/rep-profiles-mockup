@@ -3,5 +3,7 @@ layout: profile
 title: John Piper
 ---
 
-{% include header.html profile=site.data.john_piper.profile %}
-{% include highlights.html highlights=site.data.john_piper.highlights %}
+{% assign data = site.data.john_piper %}
+{% include header.html profile=data.profile %}
+{% include highlights.html highlights=data.highlights %}
+{% include three_lists.html lists=data.lists %}

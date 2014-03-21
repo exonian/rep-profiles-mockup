@@ -10,3 +10,22 @@ highlights:
     text: "I play lots of sports outdoors in any weather"
   - title: "School colours"
     text: "I got the award for the number of caps I got for the school in rugby, cricket and football"
+
+lists:
+  - title: People say I'm ...
+    items:
+      - "Hard working"
+      - "Reliable"
+      - "Competitive"
+      - "A good team mate"
+
+  - title: I'm good at ...
+    items:
+      - "Making things"
+      - "Motivating myself"
+      - "Helping other people"
+
+  - title: I am proud of ...
+    items:
+      - Being named most improved player on my rugby team
+      - Winning school colours
