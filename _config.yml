@@ -2,3 +2,4 @@ name: Represent Profiles
 markdown: redcarpet
 pygments: true
 permalink: pretty
+baseurl: /rep-profiles-mockup
