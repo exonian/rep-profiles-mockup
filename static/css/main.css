@@ -8,6 +8,7 @@ body {
     -webkit-box-shadow: 0 0 1em #888;
     box-shadow: 0 0 1em #888;
     padding: 0.5em 1em;
+    margin-bottom: 2em;
 }
 
 .highlights {
@@ -22,4 +23,15 @@ h3 {
 
 [contenteditable]:hover:not(:focus) {
     outline: 1px dotted #ccc;
+}
+
+hr {
+    border: 0;
+    height: 0.2em;
+    color: #f0f0ff;
+    background: #f0f0ff;
+}
+
+hr.strong {
+    height: 0.5em;
 }
