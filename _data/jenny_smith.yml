@@ -1,0 +1,25 @@
+profile:
+  name: Jenny Smith
+  intro: |
+         I'm applying for the NHS Trust's general and admin programme because I want to gain valuable employment skills. I would be great on the programme because I am hard-working and knowing that it is for a hospital would motivate me even more.
+
+highlights:
+  - title: Organised
+    text: I was a Young Leader at the Youth Club, helping the Leader run sessions
+  - title: IT skills
+    text: I do all my coursework on the computer
+  - title: Reliable team player
+    text: My team came 2nd in the UK Dancing Challenge
+
+lists:
+  - title: People say I'm ...
+    items:
+      - Reliable
+      - Helpful
+      - Organised
+
+  - title: I'm good at ...
+    items:
+      - Writing
+      - Using computers
+      - Being organised

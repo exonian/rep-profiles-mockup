@@ -1,0 +1,15 @@
+---
+layout: profile
+title: Jenny Smith
+---
+
+{% assign data = site.data.jenny_smith %}
+
+{% include header.html profile=data.profile %}
+{% include highlights.html highlights=data.highlights %}
+{% include two_lists.html lists=data.lists %}
+<hr class="strong" />
+
+{% include jenny_smith/alevels.html %}
+<hr />
+{% include jenny_smith/gcses.html %}

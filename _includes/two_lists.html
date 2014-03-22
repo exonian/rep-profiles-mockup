@@ -1,0 +1,12 @@
+<div class="row">
+    {% for list in include.lists %}
+    <div class="col-sm-6" contenteditable="true">
+        <h3>{{ list.title }}</h3>
+        <ul>
+            {% for item in list.items %}
+            <li>{{ item }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endfor %}
+</div>
